@@ -7,7 +7,7 @@ Soy un desarrollador que cree en convertir ideas en soluciones reales mediante c
 # 👋 Hola, soy Jassiel Sagahon
 
 💻 Desarrollador Web Full Stack (.NET, C#, SQL Server y PHP)  
-📍 México | 🌎 Abierto a oportunidades remotas y como Desarrollador Junior  
+📍 México | 🌎 Abierto a oportunidades remotas y como Desarrollador  
 
 ---
 
