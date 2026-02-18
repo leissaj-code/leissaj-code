@@ -106,10 +106,6 @@ Mi objetivo es seguir creciendo como desarrollador profesional y contribuir al d
 
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=leissaj-code&layout=compact)
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=leissaj-code&show_icons=true)
-
 ![Racha](https://streak-stats.demolab.com/?user=leissaj-code)
 
 
