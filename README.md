@@ -114,7 +114,7 @@ Mi objetivo es seguir creciendo como desarrollador profesional y contribuir al d
 ## 📫 Contacto
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/amisadai-jassiel-sagahón-bernardino-1310042a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
-* 📧 Email: (sg.jassiel@gmail.com)  
+* 📧 Email: (amisadaijassielsagahonbernardi@gmail.com)  
 
 ---
 
